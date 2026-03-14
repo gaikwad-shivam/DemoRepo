@@ -4,5 +4,7 @@
     {
 
         string name = "Shivam Gaikwad";
+        string name2 = "Shivam Gaikwad";
+        int age = 22;
     }
 }
