@@ -7,8 +7,4 @@
     <RootNamespace>Demo_Project</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="demo1111\" />
-  </ItemGroup>
-
 </Project>
